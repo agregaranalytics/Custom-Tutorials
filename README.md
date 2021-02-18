@@ -3,9 +3,9 @@
 
 Seu desafio é começar a programar? O que acha de tutoriais personalizados?! Adquira as habilidades necessárias para realizar projetos de forma independente.
 
-[Exemplo 1:] (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/CB.html)
+Exemplo 1: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/CB.html)
 
-[Exemplo 2:] (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/CRRA.html)
+Exemplo 2: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/CRRA.html)
 
 ## 📬 Get in touch
 
