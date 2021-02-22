@@ -7,7 +7,12 @@ Seu desafio é começar a programar? O que acha de tutoriais personalizados?! Ad
 
 2. Tutorial 02: Função CRRA: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/Tutorial_02_R_Funções_CRRA.html)
 
-3. Execute os códigos acima online: (https://www.tutorialspoint.com/execute_r_online.php)
+Execute os códigos R acima online: (https://www.tutorialspoint.com/execute_r_online.php)
+
+1.Tutorial 01: Conceitos Básicos em Py: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/Tutorial_01_Py_Básico.html) 
+
+Execute os códigos Py acima online: (https://www.tutorialspoint.com/execute_python_online.php)
+
 
 ## 📬 Get in touch
 
