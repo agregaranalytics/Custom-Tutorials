@@ -2,6 +2,7 @@
 ### Hi there, 👋
 
 Seu desafio é começar a programar? O que acha de tutoriais personalizados?! Adquira as habilidades necessárias para realizar projetos de forma independente.
+# R
 
 1. Tutorial 01: Conceitos Básicos em R: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/Tutorial_01_R_Básico.html)
 
@@ -9,7 +10,9 @@ Seu desafio é começar a programar? O que acha de tutoriais personalizados?! Ad
 
 Execute os códigos R acima online: (https://www.tutorialspoint.com/execute_r_online.php)
 
-1.Tutorial 01: Conceitos Básicos em Py: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/Tutorial_01_Py_Básico.html) 
+# Python
+
+1. Tutorial 01: Conceitos Básicos em Py: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/Tutorial_01_Py_Básico.html) 
 
 Execute os códigos Py acima online: (https://www.tutorialspoint.com/execute_python_online.php)
 
