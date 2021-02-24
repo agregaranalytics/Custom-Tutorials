@@ -12,7 +12,7 @@ Execute os códigos R acima online: (https://www.tutorialspoint.com/execute_r_on
 
 # Python
 
-1. Tutorial 01: Conceitos Básicos em Py: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/main/Tutorial_01_Py_Básico.pdf) 
+1. Tutorial 01: Conceitos Básicos em Py: (https://docs.google.com/viewer?url=https://raw.githubusercontent.com/agregaranalytics/Custom-Tutorials/master/Tutorial_01_Py_B%C3%A1sico.pdf) 
 
 Execute os códigos Py acima online: (https://www.tutorialspoint.com/execute_python_online.php)
 
